@@ -1,2 +1,1 @@
-# Arrays
-LeetCode array problems 
+Arrays
